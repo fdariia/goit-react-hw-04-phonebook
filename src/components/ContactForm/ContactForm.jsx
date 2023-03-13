@@ -1,4 +1,3 @@
-import ContactList from 'components/ContactList';
 import { useState } from 'react';
 import css from './ContactForm.module.css';
 
